@@ -11,7 +11,12 @@ Travel Advisories Maps apply up to four standard levels of advice to help ensure
 
 # Tools
 * Python 3
+* Jupyter Notebook
 * Pandas
 * Plotly
 * PyCountry
 * Requests
+
+# Demo
+![sample](/sample.png)
+Download the interactive map [here](demo.html)
